@@ -28,3 +28,20 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.python.org" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://jupyter.org/" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></a>
+<a href="https://www.gradio.app/" target="blank" rel="noreferrer"> <img src="https://seeklogo.com/images/G/gradio-icon-logo-908AE1836C-seeklogo.com.png" alt="gradio" width="40" height="40"/></a>
+<a href="https://www.gnu.org/software/bash/" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
+<a href="https://github.com/" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+<a href="https://markdown.es/" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="md" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://retype.com/" target="blank" rel="noreferrer"> <img src="https://cmscritic.com/ms-content/uploads/2023/08/retype-product-logo.png" alt="retype" width="40" height="40"/></a>
+<a href="https://www.kali.org/" target="blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kali-Dark.svg" alt="kali" width="40" height="40"/></a>
+<a href="https://www.r-project.org/" target="blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/R-Dark.svg" alt="r" width="40" height="40"/></a>
+</p>
+
+<h3 align="left">Stats:</h3>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eddycrack864&show_icons=true&theme=dark#gh-dark-mode-only" alt="me"/> </p>
