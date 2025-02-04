@@ -29,7 +29,7 @@
 <p align="left"> 
 <a href="https://www.python.org" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://jupyter.org/" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></a>
-<a href="https://www.gradio.app/" target="blank" rel="noreferrer"> <img src="https://seeklogo.com/images/G/gradio-icon-logo-908AE1836C-seeklogo.com.png" alt="gradio" width="40" height="40"/></a>
+<a href="https://www.gradio.app/" target="blank" rel="noreferrer"> <img src="https://vectorseek.com/wp-content/uploads/2023/12/Gradio-Icon-Logo-Vector.svg-.png" alt="gradio" width="40" height="40"/></a>
 <a href="https://www.gnu.org/software/bash/" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
 <a href="https://www.w3.org/html/" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/></a>
