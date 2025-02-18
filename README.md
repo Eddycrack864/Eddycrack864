@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [UVR5 UI](https://github.com/Eddycrack864/UVR5-UI)
 
-- 🌱 I’m currently learning **Artificial Intelligence, Cybersecurity**
+- 🌱 I’m currently learning **AI, Cybersecurity**
 
 - 👯 I’m looking to collaborate on [UVR5 UI](https://github.com/Eddycrack864/UVR5-UI)
 
@@ -42,6 +42,10 @@
 <a href="https://www.kali.org/" target="blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kali-Dark.svg" alt="kali" width="40" height="40"/></a>
 <a href="https://www.r-project.org/" target="blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/R-Dark.svg" alt="r" width="40" height="40"/></a>
 </p>
+
+<h3 align="left">Support me:</h3>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L2QM9YM)
 
 <h3 align="left">Stats:</h3>
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eddycrack864&show_icons=true&theme=dark#gh-dark-mode-only" alt="me"/> </p>
